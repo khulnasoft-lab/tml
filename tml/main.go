@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/liamg/tml"
+	"github.com/khulnasoft-labs/tml"
 )
 
 func main() {
