@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/khulnasoft-labs/tml"
+	"github.com/khulnasoft-lab/tml"
 )
 
 func main() {

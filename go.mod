@@ -1,4 +1,4 @@
-module github.com/khulnasoft-labs/tml
+module github.com/khulnasoft-lab/tml
 
 go 1.20
 
